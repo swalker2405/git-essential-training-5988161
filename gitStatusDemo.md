@@ -1,1 +1,1 @@
-New line
+This is a new test line and a better change.
